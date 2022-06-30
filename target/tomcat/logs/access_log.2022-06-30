@@ -1,0 +1,15 @@
+0:0:0:0:0:0:0:1 - - [30/Jun/2022:17:46:12 -0400] "GET /ExpenseFinalReimbursement HTTP/1.1" 302 - http-bio-8181-exec-1 0
+0:0:0:0:0:0:0:1 - - [30/Jun/2022:17:46:12 -0400] "GET /ExpenseFinalReimbursement/ HTTP/1.1" 304 - http-bio-8181-exec-3 28
+0:0:0:0:0:0:0:1 - - [30/Jun/2022:17:46:12 -0400] "GET /ExpenseFinalReimbursement/revlogo.png HTTP/1.1" 304 - http-bio-8181-exec-2 2
+0:0:0:0:0:0:0:1 - - [30/Jun/2022:17:46:12 -0400] "GET /ExpenseFinalReimbursement/index.css HTTP/1.1" 304 - http-bio-8181-exec-4 2
+0:0:0:0:0:0:0:1 - - [30/Jun/2022:17:46:12 -0400] "GET /ExpenseFinalReimbursement/index.js HTTP/1.1" 304 - http-bio-8181-exec-6 2
+0:0:0:0:0:0:0:1 - - [30/Jun/2022:17:46:13 -0400] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8181-exec-7 0
+0:0:0:0:0:0:0:1 - - [30/Jun/2022:17:46:18 -0400] "POST /ExpenseFinalReimbursement/login HTTP/1.1" 302 - http-bio-8181-exec-9 2351
+0:0:0:0:0:0:0:1 - - [30/Jun/2022:17:46:18 -0400] "GET /ExpenseFinalReimbursement/master HTTP/1.1" 200 1654 http-bio-8181-exec-9 119
+0:0:0:0:0:0:0:1 - - [30/Jun/2022:17:46:18 -0400] "GET /simple-web-app/bootstrap/css/bootstrap.css HTTP/1.1" 404 - http-bio-8181-exec-9 0
+0:0:0:0:0:0:0:1 - - [30/Jun/2022:17:46:24 -0400] "GET /ExpenseFinalReimbursement/master?reimburseid=&clr=APPROVED HTTP/1.1" 200 1654 http-bio-8181-exec-4 41
+0:0:0:0:0:0:0:1 - - [30/Jun/2022:17:46:24 -0400] "GET /simple-web-app/bootstrap/css/bootstrap.css HTTP/1.1" 404 - http-bio-8181-exec-4 0
+0:0:0:0:0:0:0:1 - - [30/Jun/2022:17:46:26 -0400] "GET /ExpenseFinalReimbursement/master?reimburseid=1&clr=DENIED HTTP/1.1" 200 1654 http-bio-8181-exec-4 38
+0:0:0:0:0:0:0:1 - - [30/Jun/2022:17:46:26 -0400] "GET /simple-web-app/bootstrap/css/bootstrap.css HTTP/1.1" 404 - http-bio-8181-exec-4 0
+0:0:0:0:0:0:0:1 - - [30/Jun/2022:17:46:31 -0400] "GET /ExpenseFinalReimbursement/master?reimburseid=1&clr=DENIED HTTP/1.1" 200 1654 http-bio-8181-exec-4 39
+0:0:0:0:0:0:0:1 - - [30/Jun/2022:17:46:31 -0400] "GET /simple-web-app/bootstrap/css/bootstrap.css HTTP/1.1" 404 - http-bio-8181-exec-4 0
